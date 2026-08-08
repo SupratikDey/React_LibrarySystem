@@ -1,0 +1,17 @@
+.Heading{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;;
+    padding:10px;
+    border:2px solid black;
+}
+
+select{
+    height:100%;
+    width:100px;
+    margin:30px;
+}
+.End{
+    display: flex;
+    align-items: center;
+}

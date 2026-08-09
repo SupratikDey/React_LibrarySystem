@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./Home.css";
 
 function Book(props){
@@ -8,6 +9,7 @@ function Book(props){
             <h4>{props.author}</h4>
             <h4>Genre : {props.genre}</h4>
             <p>{props.description}</p>
+            <Link to={`/book/${props.id}`} className="view_details_btn">View Details</Link>
         </div>
     )
 }

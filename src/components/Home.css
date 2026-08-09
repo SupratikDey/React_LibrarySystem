@@ -30,7 +30,7 @@ select{
     width:300px;
     margin:40px;
     padding:10px;
-    overflow: hidden;
+    overflow: scroll;
 }
 
 .Book_display{

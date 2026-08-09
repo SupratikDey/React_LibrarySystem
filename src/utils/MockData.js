@@ -6,6 +6,7 @@ export const Items = [
     publishedDate: "1960-07-11",
     pages: 336,
     genre: "Fiction",
+    rating: 4.3,
     coverImage: "https://covers.openlibrary.org/b/id/8225261-L.jpg",
     description:
       "A powerful novel about racial injustice and moral growth in the American South.",
@@ -20,6 +21,7 @@ export const Items = [
     publishedDate: "1949-06-08",
     pages: 328,
     genre: "Science Fiction",
+    rating: 4.6,
     coverImage: "https://covers.openlibrary.org/b/id/7222246-L.jpg",
     description:
       "A dystopian story about government surveillance, propaganda, and the loss of individual freedom.",
@@ -34,6 +36,7 @@ export const Items = [
     publishedDate: "1925-04-10",
     pages: 180,
     genre: "Fiction",
+    rating: 4,
     coverImage: "https://covers.openlibrary.org/b/id/7352165-L.jpg",
     description:
       "A tragic story of love, wealth, ambition, and the American Dream.",
@@ -48,6 +51,7 @@ export const Items = [
     publishedDate: "1813-01-28",
     pages: 432,
     genre: "Romance",
+    rating: 4.5,
     coverImage: "https://covers.openlibrary.org/b/id/8091016-L.jpg",
     description:
       "A classic story about love, marriage, social class, and overcoming personal prejudice.",
@@ -62,6 +66,7 @@ export const Items = [
     publishedDate: "1937-09-21",
     pages: 310,
     genre: "Fantasy",
+    rating: 4.7,
     coverImage: "https://covers.openlibrary.org/b/id/6979861-L.jpg",
     description:
       "An adventurous fantasy novel about a hobbit who joins a quest to reclaim a lost kingdom.",
@@ -76,6 +81,7 @@ export const Items = [
     publishedDate: "1988-01-01",
     pages: 208,
     genre: "Fiction",
+    rating: 4.2,
     coverImage: "https://covers.openlibrary.org/b/id/8102749-L.jpg",
     description:
       "An inspirational story about following dreams and discovering one's purpose.",
@@ -90,6 +96,7 @@ export const Items = [
     publishedDate: "2011-01-01",
     pages: 498,
     genre: "Non-Fiction",
+    rating: 4.4,
     coverImage: "https://covers.openlibrary.org/b/id/8231856-L.jpg",
     description:
       "An exploration of human history, culture, societies, and the development of civilization.",
@@ -104,6 +111,7 @@ export const Items = [
     publishedDate: "2011-02-11",
     pages: 369,
     genre: "Science Fiction",
+    rating: 4.6,
     coverImage: "https://covers.openlibrary.org/b/id/8259355-L.jpg",
     description:
       "A thrilling survival story about an astronaut stranded alone on Mars.",
@@ -118,6 +126,7 @@ export const Items = [
     publishedDate: "2018-10-16",
     pages: 320,
     genre: "Non-Fiction",
+    rating: 4.4,
     coverImage: "https://covers.openlibrary.org/b/id/10594741-L.jpg",
     description:
       "A practical guide to building good habits and breaking bad ones.",
@@ -132,6 +141,7 @@ export const Items = [
     publishedDate: "2019-02-05",
     pages: 336,
     genre: "Mystery",
+    rating: 4.1,
     coverImage: "https://covers.openlibrary.org/b/id/9178037-L.jpg",
     description:
       "A psychological mystery about a woman who suddenly stops speaking after a shocking crime.",
@@ -146,6 +156,7 @@ export const Items = [
     publishedDate: "1965-08-01",
     pages: 688,
     genre: "Science Fiction",
+    rating: 4.8,
     coverImage: "https://covers.openlibrary.org/b/id/8383270-L.jpg",
     description:
       "An epic science-fiction story involving politics, religion, power, and survival on a desert planet.",
@@ -160,6 +171,7 @@ export const Items = [
     publishedDate: "2020-09-08",
     pages: 256,
     genre: "Non-Fiction",
+    rating: 4.3,
     coverImage: "https://covers.openlibrary.org/b/id/10594748-L.jpg",
     description:
       "A collection of lessons about money, investing, wealth, and human behavior.",
@@ -174,6 +186,7 @@ export const Items = [
     publishedDate: "1997-06-26",
     pages: 223,
     genre: "Fantasy",
+    rating: 4.7,
     coverImage: "https://covers.openlibrary.org/b/id/7984916-L.jpg",
     description:
       "A young boy discovers that he is a wizard and begins his education at Hogwarts.",
@@ -188,6 +201,7 @@ export const Items = [
     publishedDate: "2005-03-14",
     pages: 552,
     genre: "Historical Fiction",
+    rating: 4.5,
     coverImage: "https://covers.openlibrary.org/b/id/8231855-L.jpg",
     description:
       "A moving story about a young girl who finds comfort in books during World War II.",
@@ -202,6 +216,7 @@ export const Items = [
     publishedDate: "1892-10-14",
     pages: 307,
     genre: "Mystery",
+    rating: 4.2,
     coverImage: "https://covers.openlibrary.org/b/id/8234425-L.jpg",
     description:
       "A collection of detective stories featuring the brilliant Sherlock Holmes.",

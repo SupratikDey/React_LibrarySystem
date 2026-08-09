@@ -1,0 +1,41 @@
+.Navbar{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:15px 40px;
+    background-color:#ab6407;
+    color:white;
+}
+
+.Brand{
+    margin:0;
+}
+
+.Nav_links{
+    display:flex;
+    gap:25px;
+}
+
+.Nav_links a{
+    color:white;
+    text-decoration:none;
+    font-weight:500;
+    padding:6px 10px;
+    border-radius:4px;
+}
+
+.Nav_links a:hover{
+    background-color:#374151;
+}
+
+.Nav_links a.active{
+    background-color:#2563eb;
+}
+
+.Footer{
+    text-align:center;
+    padding:20px;
+    background-color:#5283c7;
+    color:white;
+    margin-top:40px;
+}
